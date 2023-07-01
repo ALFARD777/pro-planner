@@ -1,0 +1,6 @@
+C:\Users\alfar\OneDrive\Документы\KBP\OAIP\_Planner\_Planner\x64\Debug\_Planner.vcxproj.AssemblyReference.cache
+C:\Users\alfar\OneDrive\Документы\KBP\OAIP\_Planner\_Planner\x64\Debug\_Planner.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\alfar\OneDrive\Документы\KBP\OAIP\_Planner\_Planner\x64\Debug\_Planner.vcxproj.GenerateResource.cache
+C:\Users\alfar\OneDrive\Документы\KBP\OAIP\_Planner\_Planner\x64\Debug\Planner.Main.resources
+C:\Users\alfar\OneDrive\Документы\KBP\OAIP\_Planner\_Planner\x64\Debug\Planner.Start.resources
+C:\Users\alfar\OneDrive\Документы\KBP\OAIP\_Planner\_Planner\x64\Debug\Planner.SplashScreen.resources
